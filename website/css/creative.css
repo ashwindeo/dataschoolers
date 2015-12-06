@@ -476,3 +476,15 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.list-group-item{
+    color:black;
+
+}
+
+.list-group-item a{
+    color:black;
+}
+.bg-dark{
+    color:white;
+}
