@@ -1,7 +1,8 @@
 # The Dataschoolers
 ## Predicting School District Performance
+Final Project for 2015 Harvard CS-109 Data Science Course
+(http://cs109.github.io/2015/index.html)
 
-### Components :
 #### Process Book :
 1. 1_Main.ipynb
 2. 2_ProcessBookHiLoGradRate.ipynb
